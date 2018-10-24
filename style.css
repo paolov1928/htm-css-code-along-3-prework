@@ -25,3 +25,5 @@ figcaption { font-weight: normal;
 /* Class selector*/
 
 .milk-text { font: bold 2.6em 'Elsie Swash Caps', cursive;}
+
+#logo h1 {font-family: cursive;}
