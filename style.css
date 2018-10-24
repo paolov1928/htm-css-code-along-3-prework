@@ -22,4 +22,6 @@ figcaption { font-weight: normal;
             font-size: 0.75em;
             font-family: 'Clicker Script', cursive;}
             
-/* Class 
+/* Class selector*/
+
+.milk-text { font: bold 2.6em 'Elsie Swash Caps', cursive;}
