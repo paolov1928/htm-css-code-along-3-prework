@@ -8,3 +8,13 @@ selector {
   property: value;
   property: value
 }
+
+*/
+
+p { font-size: 1em; line-height: 1.5em;}
+
+/* the above will get the paragraphs formatted nicely and the line height as well*/
+
+figcaption { font-weight: normal;
+            font-size: 0.75em;
+            font-family: Georgia, "Times New Roman", Sans-Serif;}
