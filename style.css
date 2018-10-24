@@ -31,3 +31,7 @@ figcaption { font-weight: normal;
 #logo h1 {font-family: cursive;}
 
 /* Pseudo selector*/
+
+#details a:link, #details a:visted {color: black; text-decoration: none;}
+/* The above is making links within the <a> tag look the same pre and post visit.. example of editing multiple selectors at once.
+In the example they changed the hover to underline*/
